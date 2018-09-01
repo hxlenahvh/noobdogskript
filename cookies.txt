@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.spigotmc.org	TRUE	/	FALSE	1999999999	__cfduid	d15be2a9fe2960b412ea57f337fb4508c1535817875
+
